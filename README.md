@@ -9,7 +9,7 @@
 リポジトリーをクローンしたら、npmパッケージをインストールします。
 
 ```bash
-cd svelte-app
+cd svelte3-web-components
 npm install
 ```
 
